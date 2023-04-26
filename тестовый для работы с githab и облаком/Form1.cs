@@ -16,5 +16,10 @@ namespace тестовый_для_работы_с_githab_и_облаком
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

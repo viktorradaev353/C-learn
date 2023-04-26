@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.33529.398
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "тестовый для работы с githab и облаком", "тестовый для работы с githab и облаком\тестовый для работы с githab и облаком.csproj", "{E498A511-8E11-4E40-9353-1FC6ABD95B22}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{2EE6E34C-D219-4FE5-B3CB-3C38D9384F82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
